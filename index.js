@@ -1,1 +1,1 @@
-console(troche szajsu)
+console.log(troche szajsu)
